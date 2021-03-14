@@ -1,0 +1,11 @@
+{
+    "name": "Ethernity Chain",
+    "website": "",
+    "description": "Tokenized version of the ERN",
+    "explorer": "https://etherscan.io/token/0x092eaf45af6b8d90977fe14cb53c9bb25140b467",
+    "type": "ERC20",
+    "symbol": "ERN",
+    "decimals": 8,
+    "status": "active",
+    "id": "0x092eaf45af6b8d90977fe14cb53c9bb25140b467"
+}
